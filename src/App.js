@@ -23,7 +23,7 @@ function App() {
 
  const handleSubmit = async (e) => {
   e.preventDefault();
-  // initial states
+
    setVatDetails({});
    setShow(false);
    setError("");
