@@ -30,7 +30,7 @@ function App() {
    setValid(true);
    setLoading(false);
   
-  // for validation
+  // for validation - check if the vat number is alphanumeric with length 11
   if(!vat.match(/^[a-zA-Z0-9]{11}$/)){
     setValid(false);
     setError("* VAT Number must be alphanumeric and of 11 characters");
