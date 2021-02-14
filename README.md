@@ -13,6 +13,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+Install all the dependencies
+
+### `npm start`
+To run the project on http://localhost:3000
+
 ### `yarn start`
 
 Runs the app in the development mode.\
